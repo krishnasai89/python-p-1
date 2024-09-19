@@ -1,4 +1,4 @@
-#Calculator
+# Calculator
 
 It prompts the user to input a mathematical expression (as a string).
 
