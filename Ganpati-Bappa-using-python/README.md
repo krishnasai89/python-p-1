@@ -30,7 +30,7 @@ The turtle’s position is reset to the center using home().
 
 The screen is cleared using clearscreen().
 
-5.Hiding the Turtle Cursor:
+# 5.Hiding the Turtle Cursor:
 
 The hideturtle() command hides the turtle cursor.
 
