@@ -1,4 +1,4 @@
-#Calendar
+# Calendar
 
 The user is prompted to input a year and a month.
 
