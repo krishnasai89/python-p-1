@@ -2,8 +2,6 @@
 
 before run the programming 
 
-# install getpass 
-
 pip install getpass
 
 run in cmd 
