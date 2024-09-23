@@ -1,5 +1,5 @@
 import qrcode
-data = "https://github.com/vellampallikrishnasaigifhub"
+data = input("Enter your URL: ")
 qr = qrcode.make(data)
-qr.save("githud.png")
+qr.save("QRcode.png")
 print("QR code generated and saved as 'github.png'")

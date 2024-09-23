@@ -1,6 +1,6 @@
 # output:
 
-![image desc](./githud.png)
+![image desc](./QRcode.png)
 
 
 # install qrcode
